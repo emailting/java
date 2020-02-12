@@ -6,5 +6,6 @@ public class test {
         System.out.println("创建dev分支");
         System.out.println("在master上添加内容");
         System.out.println("在本地修改");
+        System.out.println("在GIT上修改2");
     }
 }
